@@ -1,2 +1,2 @@
 # Pacman
-Simplfy Pacman implementation in C langugae
+Simply Pacman implementation in C langugae
